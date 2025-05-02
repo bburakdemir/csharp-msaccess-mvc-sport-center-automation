@@ -62,7 +62,7 @@ namespace SporSalonuOtomasyonu
 
                 SmtpClient smtp = new SmtpClient("smtp.gmail.com"); // SMTP sunucusu
                 smtp.Port = 587; // SMTP portu (gMail için 587)
-                smtp.Credentials = new NetworkCredential("sportcenterautomation@gmail.com", "jrrz saog kwtb puzs"); // Gönderici kimlik bilgileri
+                smtp.Credentials = new NetworkCredential("e-mail", "pass key"); // Gönderici kimlik bilgileri
                 smtp.EnableSsl = true;
 
                 smtp.Send(mail);
