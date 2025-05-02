@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\BusinessLayer\obj\Debug\BusinessLayer.pdb

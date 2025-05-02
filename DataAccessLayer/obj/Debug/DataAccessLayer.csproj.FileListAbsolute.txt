@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ASUS\source\repos\SporSalonuOtomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

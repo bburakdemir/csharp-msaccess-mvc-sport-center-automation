@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{512F14EE-5E47-4C5C-9518-BFDEE91605C9}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\businesslayer\\kullanicimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512F14EE-5E47-4C5C-9518-BFDEE91605C9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\kullanicimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C0A404-A64E-49AA-931D-44BF67B6E77D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\34bur\\desktop\\proje\\sporsalonuotomasyonu\\dataaccesslayer\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C0A404-A64E-49AA-931D-44BF67B6E77D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8CA1EC-4529-4006-9B90-655D194DF1C5}|EntityLayer\\EntityLayer.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\entitylayer\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8CA1EC-4529-4006-9B90-655D194DF1C5}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|c:\\users\\34bur\\desktop\\proje\\sporsalonuotomasyonu\\sporsalonuotomasyonu\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\admingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\sifres\u0131f\u0131rlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\sifres\u0131f\u0131rlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\sporsalonuotomasyonu\\sifres\u0131f\u0131rlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9409FDA3-4305-46E6-AEFC-9C7E81E168B6}|SporSalonuOtomasyonu\\SporSalonuOtomasyonu.csproj|solutionrelative:sporsalonuotomasyonu\\sifres\u0131f\u0131rlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciDal.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\DataAccessLayer\\KullaniciDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\KullaniciDal.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\DataAccessLayer\\KullaniciDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\KullaniciDal.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T00:16:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\adminGiris.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\adminGiris.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\adminGiris.cs",
+              "RelativeToolTip": "SporSalonuOtomasyonu\\adminGiris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:13:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanelForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\AdminPanelForm.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\csharp-mvc-msaccess-automation\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\AdminPanelForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\csharp-mvc-msaccess-automation\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\AdminPanelForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:12:00.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kullan\u0131c\u0131Panel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\ASUS\\Desktop\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:07:20.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\adminGiris.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\adminGiris.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\csharp-mvc-msaccess-automation\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\adminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\csharp-mvc-msaccess-automation\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\adminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:26:45.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\EntityLayer\\Kullanici.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\EntityLayer\\Kullanici.cs",
+              "RelativeToolTip": "EntityLayer\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:09:12.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullaniciManager.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\BusinessLayer\\KullaniciManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\KullaniciManager.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\BusinessLayer\\KullaniciManager.cs",
+              "RelativeToolTip": "BusinessLayer\\KullaniciManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:42:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPanelForm.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\AdminPanelForm.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\AdminPanelForm.cs",
+              "RelativeToolTip": "SporSalonuOtomasyonu\\AdminPanelForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:28:56.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sifreS\u0131f\u0131rlama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\ASUS\\Desktop\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:18:22.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "kullan\u0131c\u0131Panel.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs",
+              "RelativeToolTip": "SporSalonuOtomasyonu\\kullan\u0131c\u0131Panel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:46:13.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\ASUS\\Desktop\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:18:03.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sifreS\u0131f\u0131rlama.cs",
+              "DocumentMoniker": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs",
+              "RelativeDocumentMoniker": "SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs",
+              "ToolTip": "C:\\Users\\34bur\\Desktop\\proje\\SporSalonuOtomasyonu\\SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs",
+              "RelativeToolTip": "SporSalonuOtomasyonu\\sifreS\u0131f\u0131rlama.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:18:53.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
